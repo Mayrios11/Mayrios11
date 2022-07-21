@@ -20,6 +20,6 @@
 
 <div>
  
-  ![Animação de cobra](https://github.com/mayrios11/mayrios11/blob/output/github-contribution-grid-snake.svg)
+  ![snake animation](https://github.com/mayrios11/mayrios11/blob/output/github-contribution-grid-snake.svg)
  
 </div>
