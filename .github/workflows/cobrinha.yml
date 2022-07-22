@@ -23,11 +23,4 @@ empregos :
           build_dir : dist
         ambiente :
           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
-  
-Rodapé
-© 2022 GitHub, Inc.
-Navegação no rodapé
-Termos
-Privacidade
-Segurança
-Status
+          
